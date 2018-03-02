@@ -17,13 +17,13 @@ print(my_list)
 index = my_list.index('c')
 print(index)
 
-# remove from list
-my_list.remove('c')
-print(my_list)
-
 # sort list
 my_list = ['c', 'b', 'a']
 my_list.sort()
+print(my_list)
+
+# remove from list
+my_list.remove('c')
 print(my_list)
 
 # append to list
