@@ -1,0 +1,1 @@
+# _cviceni_operace_s_list
